@@ -81,7 +81,7 @@ bank-marketing-analytics/
 ├── LICENSE
 ├── .gitignore
 ├── data/
-│   └── INSTRUCOES.txt
+│   └── bank-additional-full.csv
 ├── reports/
 │   └── figures/             # gráficos finais versionados
 ├── src/
